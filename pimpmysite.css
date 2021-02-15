@@ -1,5 +1,5 @@
 body {
-	background-image: url("imagens/fundo.jpg");
+	background: url("imagens/fundo.jpg") no-repeat center center fixed;
 	background-size: cover;
 	text-align: center;
 	font-family: 'Reggae One', cursive;
